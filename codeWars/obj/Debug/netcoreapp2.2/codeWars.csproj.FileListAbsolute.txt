@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/bin/Debug/netcoreapp2.2/codeWars.deps.json
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/bin/Debug/netcoreapp2.2/codeWars.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/bin/Debug/netcoreapp2.2/codeWars.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/bin/Debug/netcoreapp2.2/codeWars.dll
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/bin/Debug/netcoreapp2.2/codeWars.pdb
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.dll
+/Users/helena.franczak/RiderProjects/codeWars/codeWars/obj/Debug/netcoreapp2.2/codeWars.pdb
