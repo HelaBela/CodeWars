@@ -19,7 +19,7 @@ namespace codeWars
             return timesTheCharaterAppears;
         }
 
-        private static bool XOXO(string word)
+        public static bool XOXO(string word)
         {
             return CountCharInString(word, 'x') == CountCharInString(word, 'o');
         }

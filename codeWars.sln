@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeWars", "codeWars\codeWars.csproj", "{3CC0EB31-AD29-490D-A2FF-08B96BEF8C8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{555017AB-69D9-4416-8313-9BB56B0D8DD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3CC0EB31-AD29-490D-A2FF-08B96BEF8C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CC0EB31-AD29-490D-A2FF-08B96BEF8C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CC0EB31-AD29-490D-A2FF-08B96BEF8C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555017AB-69D9-4416-8313-9BB56B0D8DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555017AB-69D9-4416-8313-9BB56B0D8DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555017AB-69D9-4416-8313-9BB56B0D8DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555017AB-69D9-4416-8313-9BB56B0D8DD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
